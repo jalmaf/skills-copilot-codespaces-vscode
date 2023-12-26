@@ -1,4 +1,4 @@
-// create a web server w express
+// Create web server
 // create a route for /hello
 // send back "Hello World" as the response
 // listen on port 3000
